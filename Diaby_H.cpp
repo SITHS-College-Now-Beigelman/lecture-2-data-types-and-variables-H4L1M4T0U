@@ -27,8 +27,7 @@ int main() {
 
 
 
-    char CharThngy = 
-
+ 
 
 
 
