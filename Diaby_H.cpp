@@ -11,7 +11,7 @@
 using namespace std;
 
 int main() {
-    string skibidi = "Big skibidi sigma likes to walk";    //This is the string thingy
+    string skibidi = "Big skibidi sigma likes to walk\n";    //This is the string thingy
     cout<< skibidi;
 
 
@@ -27,23 +27,14 @@ int main() {
 
 
 
+
+
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*Big skibidi sigma likes to walk
+7
+4.6
+16.27*/
 
 
 
